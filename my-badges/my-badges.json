@@ -1,0 +1,100 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/alexkunin/terraform-provider-docker/commit/a0d51e2a0955777ed52ca13a095de49fc30b6ea5\"><strong>a</strong>0d51e2a0955777ed52ca13a095de49fc30b6ea5</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/a-commit.png?raw=true"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/alexkunin/alexkunin/commit/0e003e80dcffc14caa647907d0e6c2877fd18988\">0e003e8</a>\n- <a href=\"https://github.com/alexkunin/alexkunin/commit/85049e83b3cdc060f7b81176ea0694d2789a11b2\">85049e8</a>\n- <a href=\"https://github.com/alexkunin/alexkunin/commit/41b77be9b36ca747b2d9f2b8590b36206d8acda1\">41b77be</a>\n- <a href=\"https://github.com/alexkunin/mat-dialog-directive/commit/0e2035fb85ad62549ba70f3d69c0c93e64f169dd\">0e2035f</a>\n- <a href=\"https://github.com/alexkunin/terraform-provider-docker/commit/460bc7a0c3e98785b84bbcf36ef14bebe07cbafb\">460bc7a</a>\n- <a href=\"https://github.com/alexkunin/devbox/commit/d7a86b773a17b19d92330df93b18ec8dceb3af98\">d7a86b7</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/sleepy-coder.png?raw=true"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/alexkunin/payever-assessment/commit/3d308beabe30978dd2981417cd8649857d115965\">3d308be</a>\n- <a href=\"https://github.com/alexkunin/payever-assessment/commit/daef44a5ee3ab6555c31152dda34c9edaf77856e\">daef44a</a>\n- <a href=\"https://github.com/alexkunin/payever-assessment/commit/4b99e697820cc79e5e9c3314de715935cdefc45b\">4b99e69</a>\n- <a href=\"https://github.com/alexkunin/payever-assessment/commit/71d0b6094076ed311ae8c561431a896a50be2a40\">71d0b60</a>\n- <a href=\"https://github.com/alexkunin/payever-assessment/commit/379cd8ec005cdfc658950577f7422512179683b8\">379cd8e</a>\n- <a href=\"https://github.com/alexkunin/loopback-explain-component/commit/177618000833d7da09fa12a482787ecb7a9a9501\">1776180</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/morning-commits.png?raw=true"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/alexkunin/knigavuhe-rust/commit/e9c1926b6ef5123edf606908e93aca890fc3143b\">e9c1926</a>\n- <a href=\"https://github.com/alexkunin/knigavuhe-go/commit/e0477a4323a8e41f543d34426274c15c9db9bfbc\">e0477a4</a>\n- <a href=\"https://github.com/alexkunin/structure-parser/commit/5d244b2d6bd9ff22c2fc60c8b27b8c897c704494\">5d244b2</a>\n- <a href=\"https://github.com/alexkunin/selenium2php/commit/8e0741d10a996436331013f0207940b35e4427d1\">8e0741d</a>\n- <a href=\"https://github.com/alexkunin/devbox/commit/019be88b02ad53ae3a4e2ea1361e331d723abbc3\">019be88</a>\n- <a href=\"https://github.com/alexkunin/devbox/commit/3498bff16c177d0258cea69561dea34ecbc5aa33\">3498bff</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/github-anniversary/github-anniversary-5.png?raw=true"
+  },
+  {
+    "id": "github-anniversary-10",
+    "tier": 0,
+    "desc": "I joined GitHub 10 years ago.",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/github-anniversary/github-anniversary-10.png?raw=true"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/alexkunin/2048-react/commit/1c204e841fc86e69929d1bc761798393d31c6f5b\">1c204e8</a>: fix: fix App test\n- <a href=\"https://github.com/alexkunin/2048-react/commit/cc9f4e36513148532a66760f62dc3640326d9711\">cc9f4e3</a>: fix: fix package-lock.json version",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-2.png?raw=true"
+  },
+  {
+    "id": "delorean",
+    "tier": 0,
+    "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/alexkunin/heroku-buildpack-shell/commit/76ab6d169f796d75fbee5999d64208d923df732f\">76ab6d1</a>\n- <a href=\"https://github.com/alexkunin/heroku-buildpack-shell/commit/a4aea7e34cee516aaedd7bcd82d401bbf9b1e519\">a4aea7e</a>\n- <a href=\"https://github.com/alexkunin/heroku-buildpack-shell/commit/0e887191a43077d9848a821f914fc5fb165fde4f\">0e88719</a>\n- <a href=\"https://github.com/alexkunin/heroku-buildpack-shell/commit/3fb4eba338112d1ed813dd7afd08f8d53b53ea3c\">3fb4eba</a>\n- <a href=\"https://github.com/alexkunin/heroku-buildpack-shell/commit/02e01829e466ca5e525230b4d30eed66318497b5\">02e0182</a>\n- <a href=\"https://github.com/alexkunin/heroku-buildpack-shell/commit/6c4f86357874b70f58cceb3fc462f38ff582e8d3\">6c4f863</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/delorean/delorean.png?raw=true"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/covid-19/covid-19.png?raw=true"
+  },
+  {
+    "id": "pr-collaboration-5",
+    "tier": 1,
+    "desc": "I have participated in pull requests with 5 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/Codeception/Codeception/pull/5602\">#5602</a>: [Async] add implementation of async support",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/pr-collaboration/pr-collaboration-5.png?raw=true"
+  },
+  {
+    "id": "public-keys-1",
+    "tier": 1,
+    "desc": "I have one public key",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/public-keys/public-keys-1.png?raw=true"
+  },
+  {
+    "id": "old-issue-2",
+    "tier": 2,
+    "desc": "I closed an issue that was open for 2 years",
+    "body": "Issues:\n\n- <a href=\"https://github.com/symfony/cli/issues/97\">#97</a>: APP_ENV is not passed when symfony cli is used to run bin/console",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/old-issue/old-issue-2.png?raw=true"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"added\".",
+    "body": "My favorite commit message words are:\n\n1. added (used 24 times)\n2. commit (used 17 times)\n3. to (used 16 times)\n4. fix (used 16 times)\n5. initial (used 16 times)",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
+  },
+  {
+    "id": "polite-coder",
+    "tier": 0,
+    "desc": "I am a polite coder.",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/just-jeb/angular-builders/issues/1009\">#1009</a>: Support for coverage in multi-project workspaces\n- <a href=\"https://github.com/kreuzwerker/terraform-provider-docker/issues/202\">#202</a>: resource.docker_service.task_spec.container_spec.hosts is ignored\n- <a href=\"https://github.com/kreuzwerker/terraform-provider-docker/issues/211\">#211</a>: Improved support for Docker Desktop (Mac): mounting /var/run/docker.sock leads to reconfiguration loop\n- <a href=\"https://github.com/kreuzwerker/terraform-provider-docker/issues/206\">#206</a>: Error deleting container: context deadline exceeded\n- <a href=\"https://github.com/kreuzwerker/terraform-provider-docker/issues/222\">#222</a>: Shaky plan with empty `bind_options` block\n\n And many more...",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/polite-coder/polite-coder.png?raw=true"
+  }
+]

@@ -5,8 +5,8 @@
 My favorite commit message words are:
 
 1. added (used 24 times)
-2. commit (used 17 times)
-3. to (used 16 times)
+2. to (used 17 times)
+3. commit (used 17 times)
 4. fix (used 16 times)
 5. initial (used 16 times)
 

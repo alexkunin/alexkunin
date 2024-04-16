@@ -10,14 +10,14 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/alexkunin/alexkunin/commit/0e003e80dcffc14caa647907d0e6c2877fd18988\">0e003e8</a>\n- <a href=\"https://github.com/alexkunin/alexkunin/commit/85049e83b3cdc060f7b81176ea0694d2789a11b2\">85049e8</a>\n- <a href=\"https://github.com/alexkunin/alexkunin/commit/41b77be9b36ca747b2d9f2b8590b36206d8acda1\">41b77be</a>\n- <a href=\"https://github.com/alexkunin/mat-dialog-directive/commit/0e2035fb85ad62549ba70f3d69c0c93e64f169dd\">0e2035f</a>\n- <a href=\"https://github.com/alexkunin/terraform-provider-docker/commit/460bc7a0c3e98785b84bbcf36ef14bebe07cbafb\">460bc7a</a>\n- <a href=\"https://github.com/alexkunin/devbox/commit/d7a86b773a17b19d92330df93b18ec8dceb3af98\">d7a86b7</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/alexkunin/payever-frontend-assessment/commit/f04b706b448c8a964b929f6e6977bffd1bef3d50\">f04b706</a>\n- <a href=\"https://github.com/alexkunin/payever-frontend-assessment/commit/f0fe3fd447be545dac76649a93600a1d8d427983\">f0fe3fd</a>\n- <a href=\"https://github.com/alexkunin/alexkunin/commit/0e003e80dcffc14caa647907d0e6c2877fd18988\">0e003e8</a>\n- <a href=\"https://github.com/alexkunin/alexkunin/commit/85049e83b3cdc060f7b81176ea0694d2789a11b2\">85049e8</a>\n- <a href=\"https://github.com/alexkunin/alexkunin/commit/41b77be9b36ca747b2d9f2b8590b36206d8acda1\">41b77be</a>\n- <a href=\"https://github.com/alexkunin/mat-dialog-directive/commit/0e2035fb85ad62549ba70f3d69c0c93e64f169dd\">0e2035f</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/sleepy-coder.png?raw=true"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/alexkunin/fx/commit/64eefccd4fbd6ac02866909f913c81b6e2c35f91\">64eefcc</a>\n- <a href=\"https://github.com/alexkunin/payever-assessment/commit/3d308beabe30978dd2981417cd8649857d115965\">3d308be</a>\n- <a href=\"https://github.com/alexkunin/payever-assessment/commit/daef44a5ee3ab6555c31152dda34c9edaf77856e\">daef44a</a>\n- <a href=\"https://github.com/alexkunin/payever-assessment/commit/4b99e697820cc79e5e9c3314de715935cdefc45b\">4b99e69</a>\n- <a href=\"https://github.com/alexkunin/payever-assessment/commit/71d0b6094076ed311ae8c561431a896a50be2a40\">71d0b60</a>\n- <a href=\"https://github.com/alexkunin/payever-assessment/commit/379cd8ec005cdfc658950577f7422512179683b8\">379cd8e</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/alexkunin/payever-frontend-assessment/commit/7a780a5e26c3f04bd7bcbba3ae19d009ce3d6b0b\">7a780a5</a>\n- <a href=\"https://github.com/alexkunin/payever-frontend-assessment/commit/cca9d21d59dd5e61c49f54a51aac408c9d23cc22\">cca9d21</a>\n- <a href=\"https://github.com/alexkunin/payever-frontend-assessment/commit/9ba98ff87772d6b34f7f460e97f10293c692fde9\">9ba98ff</a>\n- <a href=\"https://github.com/alexkunin/payever-frontend-assessment/commit/bde60f7e707f388e56d32d318fb14464a2de7b5b\">bde60f7</a>\n- <a href=\"https://github.com/alexkunin/payever-frontend-assessment/commit/3150e6ebea9052a220e701b498a388c8772a933f\">3150e6e</a>\n- <a href=\"https://github.com/alexkunin/payever-frontend-assessment/commit/96bbd6a7b5d7dbfb58990b71017081f533f19ac1\">96bbd6a</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/morning-commits.png?raw=true"
   },
   {
@@ -86,8 +86,8 @@
   {
     "id": "favorite-word",
     "tier": 0,
-    "desc": "My favorite word is \"added\".",
-    "body": "My favorite commit message words are:\n\n1. added (used 24 times)\n2. to (used 17 times)\n3. commit (used 17 times)\n4. fix (used 16 times)\n5. initial (used 16 times)",
+    "desc": "My favorite word is \"add\".",
+    "body": "My favorite commit message words are:\n\n1. add (used 36 times)\n2. added (used 24 times)\n3. to (used 21 times)\n4. commit (used 18 times)\n5. fix (used 17 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
